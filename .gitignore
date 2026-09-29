@@ -10,7 +10,6 @@ __pycache__/
 dist/
 build/
 build_temp/
-*.spec
 *.log
 
 # Virtual environments
