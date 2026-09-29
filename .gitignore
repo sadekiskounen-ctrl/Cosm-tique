@@ -7,7 +7,6 @@ __pycache__/
 .Python
 *.egg
 *.egg-info/
-dist/
 build/
 build_temp/
 *.log
@@ -42,5 +41,3 @@ reports/*.xlsx
 reports/*.pdf
 reports/*.csv
 
-# Distribution
-dist/
