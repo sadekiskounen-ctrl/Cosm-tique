@@ -1,0 +1,47 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+.Python
+*.egg
+*.egg-info/
+dist/
+build/
+build_temp/
+*.spec
+*.log
+
+# Virtual environments
+venv/
+env/
+.venv/
+.env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Database backups
+*.db-journal
+*.db-wal
+*.db-shm
+
+# Exports & Reports (générés dynamiquement)
+exports/*.xlsx
+exports/*.pdf
+exports/*.csv
+reports/*.xlsx
+reports/*.pdf
+reports/*.csv
+
+# Distribution
+dist/
